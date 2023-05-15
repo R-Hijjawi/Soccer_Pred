@@ -1,5 +1,5 @@
 # Soccer_Pred
-Soccer_Pred
+
 Data Sourced From:  https://www.kaggle.com/datasets/hugomathien/soccer.
 This project contains a Single Jupyter Notebook. The notebook includes Exploratory Analysis, Model Building, evaluaion & selection. It is throughly annotated and will explain what we did at each step.
 
