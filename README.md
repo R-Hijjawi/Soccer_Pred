@@ -7,4 +7,4 @@ Summary:
 Engineered features and joined several tables to construct dataset of 25,000 matches and relevant attributes. 
 Using XGBoost, developed a ML random forest model to predict result based on player ratings and attributes, webscraped from a soccer video game database.
 
-By: Ra'id Hijjawi and Mohammad Khater.
+By: Rai'd Hijjawi and Mohammad Khater.
